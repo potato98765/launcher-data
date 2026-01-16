@@ -1,5 +1,6 @@
 {
     "latest_version": "0.5",
     "required_update": true,
-    "download_filename": "client.zip"
+    "download_update": "client.zip"
+    "download_full" : "client_full.zip"
 }
